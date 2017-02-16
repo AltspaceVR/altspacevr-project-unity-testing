@@ -45,6 +45,6 @@ Email us a link to your Github repo to `projects@altvr.com`. Please include your
 
 We hope you have fun working on the project, and we're excited to see what you come up with!
     
-[The Altspace Team](http://altvr.com/team/)
+[The AltspaceVR Team](http://altvr.com/team/)
 
 
